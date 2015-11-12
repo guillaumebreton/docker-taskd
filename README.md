@@ -14,9 +14,3 @@ Acces to your container via
 ~~~
 
 and see : https://taskwarrior.org/docs/taskserver/user.html
-
-
-
-
-
-
