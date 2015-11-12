@@ -1,4 +1,4 @@
-# taskd
+# taskd docker image
 
 Taskd docker container.
 
