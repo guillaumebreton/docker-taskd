@@ -1,6 +1,6 @@
 # taskd docker image
 
-Taskd docker container.
+Taskd docker container. (version 1.1.0)
 
 NB: This image generates its own auto-sign certificate (which is not safe).
 if you want to use your own certificate, puts them in the mounted volume /var/taskdata.
